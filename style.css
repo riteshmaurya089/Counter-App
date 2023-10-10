@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #counter {
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(160, 65, 65);
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  span.clockicons-timer {
+    font-size: 40px;
+    font-family: clockicons;
+  }
+  
+  
+  button {
+    margin-top: 20px;
+    width: 100px;
+  }
+  
